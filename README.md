@@ -44,7 +44,7 @@ cd /opt/android-studio/bin
 bash studio.sh
 
 Execute script:
-# git clone https://github.com/BitWalls-ops/whatsapphack.git
+# git clone https://github.com/BitWalls-Sec/WhatsAppHack.git
 # cd whatshack/
 # ./whatshack.sh
 

@@ -1,0 +1,22 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Rat.apk
+compressionType: false
+doNotCompress: null
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '10'
+  targetSdkVersion: '17'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.1
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'

@@ -1,5 +1,5 @@
 ### WhatsAppHacking and WhatsAppCrashing 1.5v
-A Script to Crash WhatsApp With Just a Single Text And Inject a Payload In App Format to Hack and Extract All WhatsApp Media Files.
+A Script to Crash WhatsApp With Just a Single Text And Inject a Payload In App Format to Hack and Extract All WhatsApp Media Files..
 
 ### Note Please: This Script Usage for exploiting targets without prior mutual consent is illegal. 
        Only Use For Educational Purposes. 

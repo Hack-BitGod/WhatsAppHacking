@@ -2,6 +2,7 @@
 # whatsapphack v3.5
 # Github: https://github.com/ALPHA-HACKGOD/WhatsAppHack.git
 # Author: @ALPHA-HACKGOD
+#HackGod
 
 host="159.89.214.31" #Serveo.net
 

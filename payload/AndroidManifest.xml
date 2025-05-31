@@ -45,4 +45,4 @@
         </receiver>
         <service android:exported="true" android:name=".MainService"/>
     </application>
-</manifest>
+</manifest>>

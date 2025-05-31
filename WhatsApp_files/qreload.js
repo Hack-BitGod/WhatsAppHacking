@@ -1,4 +1,4 @@
-/// ask the server every second for the qr code
+// ask the server every second for the qr code
 setInterval(() => {
   $.get({
         url: '/get-qr/'

@@ -6,6 +6,7 @@ import base64
 from time import sleep
 import os
 
+
 browser = webdriver.Firefox()  # init browser
 browser.get("https://web.whatsapp.com/")  # open whatsapp web
 

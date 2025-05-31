@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # cleanup.sh
 
 # usage: ./cleanup.sh

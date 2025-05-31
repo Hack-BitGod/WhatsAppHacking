@@ -1,5 +1,5 @@
 #!/bin/bash
-}
+
 # Set up prog to be the path of this script, including following symlinks,
 # and set up progdir to be the fully-qualified pathname of its directory.
 prog="$0"

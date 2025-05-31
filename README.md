@@ -5,7 +5,7 @@ A Script to Crash WhatsApp With Just a Single Text And Inject a Payload In App F
        Only Use For Educational Purposes. 
        Please try not to harm anyone device..
 
-### If you have questions or need any help with full whatsapp messages black script, message me here: https://t.me/HackBitGod Email Me: hackbitgod@gmail.com
+### If you have questions or need any help with premium whatsapp messages black script cloning and seeing victim's chat-list and messages in real-time, message me here: https://t.me/HackBitGod Email Me: hackbitgod@gmail.com
 
 ### Installation Guide on Any Linux Distribution:
 ```

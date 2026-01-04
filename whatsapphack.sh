@@ -18,7 +18,6 @@ killall -2 ssh > /dev/null 2>&1
 fi
 exit 1
 
-
 }
 
 dependencies() {

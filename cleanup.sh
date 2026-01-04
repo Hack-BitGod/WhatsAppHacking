@@ -16,6 +16,7 @@ function rmfilez {
   fi
 }
 
+
 rmdirz bin
 rmdirz libs
 rmdirz original
